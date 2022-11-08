@@ -1,0 +1,15 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+/* *{
+    background-color: antiquewhite;
+} */
+/* main{
+    background-image: url('nature.jpg');
+} */
+.banner {
+    color: #FFD23F;
+    font-family: sans-serif;
+}
